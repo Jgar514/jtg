@@ -12,7 +12,7 @@ function App() {
 
   return (
     <div className='w-screen h-screen bg-blue-300 flex flex-col justify-center items-center'>
-      <div className='text-yellow-200 text-4xl mb-4'>Hello World</div>
+      <div className='text-yellow-200 text-4xl mb-4'>Hello Laurie</div>
       <div className='text-yellow-200 text-2xl'>
         {dateTime.toLocaleDateString()} {dateTime.toLocaleTimeString()}
       </div>
